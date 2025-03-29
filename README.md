@@ -1,0 +1,1 @@
+Developed a web-based car parking management system to efficiently track and manage vehicle records for both incoming and outgoing cars. Designed and implemented a user-friendly, responsive interface that allows users to check real-time availability, book parking spots, and make seamless digital payments.
